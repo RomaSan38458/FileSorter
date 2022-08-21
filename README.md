@@ -1,5 +1,5 @@
 # FileSorter 
-Moves your files into created folders depending on the extension in work directory.
+Sorts files by type.
 
 # Start
 ruby .\main.rb
