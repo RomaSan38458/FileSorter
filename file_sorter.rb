@@ -1,6 +1,5 @@
 # Checks directory, creates new folders and sorts files in the current directory.
 class FileSorter
-
   attr_writer :work_directory
   attr_writer :folders
 
@@ -38,5 +37,4 @@ class FileSorter
       end
     end
   end
-  
 end
